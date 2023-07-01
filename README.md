@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alielneklawy&label=Profile%20views&color=0e75b6&style=flat" alt="alielneklawy" /> </p>
 
 
-- ⚡ Fun fact **C is better that python 😅**
+- ⚡ Fun fact **C is better than python 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
