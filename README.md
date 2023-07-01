@@ -2,6 +2,7 @@
 <h3 align="center">An ECE student interested in ML 🌱</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alielneklawy&label=Profile%20views&color=0e75b6&style=flat" alt="alielneklawy" /> </p>
+[![Image of my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter/blob/master/svg/372372861/badge.svg)](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/372372861/week.md)
 
 - ⚡ Fun fact **C is better that python 😅**
 
