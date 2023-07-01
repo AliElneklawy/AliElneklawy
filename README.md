@@ -8,9 +8,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alielneklawy&label=Profile%20views&color=0e75b6&style=flat" alt="alielneklawy" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alielneklawy" alt="alielneklawy" /></a> </p>
-
-
 - ⚡ Fun fact **C is better that python 😅**
 
 <h3 align="left">Connect with me:</h3>
