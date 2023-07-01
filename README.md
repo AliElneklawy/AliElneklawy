@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Elneklawy</h1>
 <h3 align="center">An ECE student interested in ML 🌱</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/AliElneklawy/AliElneklawy/assets/89526026/c98973f9-ce7c-4dd8-8b66-48717e9e2008.gif)
-">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/A15H8E1VUh8AAAAC/github-cat.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alielneklawy&label=Profile%20views&color=0e75b6&style=flat" alt="alielneklawy" /> </p>
 
 
