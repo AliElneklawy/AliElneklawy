@@ -1,4 +1,4 @@
-![image](https://github.com/AliElneklawy/AliElneklawy/assets/89526026/df6dffcd-7aa8-4b23-8d0c-5d0c3111e5df)<h1 align="center">Hi 👋, I'm Ali Elneklawy</h1>
+<h1 align="center">Hi 👋, I'm Ali Elneklawy</h1>
 <h3 align="center">An ECE student interested in ML 🌱</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alielneklawy&label=Profile%20views&color=0e75b6&style=flat" alt="alielneklawy" /> </p>
