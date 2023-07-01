@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Elneklawy</h1>
 <h3 align="center">An ECE student interested in ML 🌱</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alielneklawy&label=Profile%90views&color=0e75b6&style=flat" alt="alielneklawy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alielneklawy&label=Profile%20views&color=0e75b6&style=flat" alt="alielneklawy" /> </p>
 
 
 - ⚡ Fun fact **C is better that python 😅**
