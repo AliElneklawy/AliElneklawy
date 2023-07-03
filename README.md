@@ -10,6 +10,7 @@
 
 
 
+- I like working with large datasets
 - ⚡ Fun fact **C is better than python 😅**
 
 <h3 align="left">Connect with me:</h3>
