@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, There</h1>
 <h3 align="center">I'm an ECE student interested in ML 🌱</h3>
 
-<img align="centre" alt="coding" width="498" src="https://tenor.com/view/ronaldo-super-saiyan-pumped-yeah-soccer-gif-6123045.gif">
+<img align="right" alt="suii" width="498" src="https://tenor.com/view/ronaldo-super-saiyan-pumped-yeah-soccer-gif-6123045.gif">
 
 
 
