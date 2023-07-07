@@ -5,7 +5,7 @@
 <h3 align="center">I'm an ECE student interested in ML 🌱</h3>
 
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/cB6Nb-ERVNEAAAAd/ronaldo.gif">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/1dc3586e97d84406fd69732b7730d2119491478bdc148ccd61b056489e1969f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7854315847567039354744506746596d55452f67697068792e676966).gif">
 
 
 
