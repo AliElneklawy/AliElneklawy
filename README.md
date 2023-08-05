@@ -10,7 +10,7 @@
 
 
 - I like working with large datasets
-- ⚡ Fun fact **C is better than python 😅**
+- ⚡ Fun fact **C is more fun than python 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
