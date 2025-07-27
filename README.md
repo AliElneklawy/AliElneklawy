@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=alielneklawy&label=Profile%20views&color=0e75b6&style=flat" alt="alielneklawy" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=alielneklawy&label=Profile%20views&color=0e75b6&style=flat" alt="alielneklawy" /> </p> <p align="center"> <img src="https://img.shields.io/github/stars/AliElneklawy" alt="stars" /> </p>
 
 
 <h1 align="center">Hi 👋, There</h1>
@@ -11,7 +11,6 @@
 
 
 - I like working with large datasets
-- ⚡ Fun fact **C is more fun than python 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
