@@ -1,8 +1,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alielneklawy&label=Profile%20views&color=0e75b6&style=flat" alt="alielneklawy" /> </p> <p align="center"> <img src="https://img.shields.io/github/stars/AliElneklawy" alt="stars" /> </p>
 
 
-<h1 align="center">Hi, There</h1>
-<h3 align="center">I'm a Machine Learning Engineer</h3>
+<h1 align="center">Hi, There!</h1>
+<h3 align="center">I'm a Machine Learning Engineer.</h3>
 
 <img align="right" alt="suii" width="498" src="https://tenor.com/view/ronaldo-super-saiyan-pumped-yeah-soccer-gif-6123045.gif">
 
